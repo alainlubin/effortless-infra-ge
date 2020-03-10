@@ -1,0 +1,7 @@
+$pkg_name="effortless-infra"
+$pkg_origin="jmassardo"
+$pkg_maintainer="James Massardo <james@dxrf.com>"
+$pkg_version="0.2.0"
+$pkg_upstream_url="http://chef.io"
+$pkg_scaffolding="chef/scaffolding-chef-infra"
+$scaffold_policy_name="base"
